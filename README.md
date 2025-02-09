@@ -1,3 +1,4 @@
+#Cafetería DLA - CRUD en ASP.NET MVC
 Descripción
 El proyecto Cafetería DLA es una aplicación web desarrollada utilizando ASP.NET MVC, Entity Framework y SQL Server. Esta aplicación permite gestionar productos en una cafetería, con funcionalidades para crear, editar, eliminar y visualizar productos. Además, incluye un sistema de autenticación de usuarios con registro, inicio de sesión, restablecimiento de contraseña y confirmación de correo.
 
